@@ -1,3 +1,16 @@
 {
-  "title": "Some title..."
+  "topics": [
+    {
+      "title": "to learn angular",
+      "completed": false
+    },
+    {
+      "title": "to learn french",
+      "completed": true
+    },
+    {
+      "title": "to learn some",
+      "completed": false
+    }
+  ]
 }
