@@ -1,16 +1,16 @@
 {
-  "topics": [
+  "products": [
     {
-      "title": "to learn angular",
-      "completed": false
+      "title": "iPhone 13 Pro Max",
+      "price": "$100"
     },
     {
-      "title": "to learn french",
-      "completed": true
+      "title": "iPhone 12 Pro",
+      "price": "$50"
     },
     {
-      "title": "to learn some",
-      "completed": false
+      "title": "iPhone 11",
+      "price": "$20"
     }
   ]
 }
